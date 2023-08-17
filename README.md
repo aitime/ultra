@@ -1,0 +1,2 @@
+# ultra
+zsh theme
